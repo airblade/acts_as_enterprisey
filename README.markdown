@@ -1,7 +1,7 @@
-= ActsAsEnterprisey
+# ActsAsEnterprisey
 
 
-== Introduction
+## Introduction
 
 Let's face it, we all want the big bucks.  And we all know Consultancy Law No. 1:
 
@@ -18,7 +18,7 @@ How does `acts_as_enterprisey` make webapp development look hard?  Well, the onl
 So while your client clicks, ...waits..., and then gets the page, you can blather on heroically about wrestling with clustered indexes, cache expiration strategies, `n log n` seek times, <i>etc ad nauseam</i>.
 
 
-== Usage
+## Usage
 
 Simply insert `acts_as_enterprisey` in your `ActiveRecord` model.  That's it.  (It wouldn't be much use if you actually had to do some work to make it look hard, would it?)
 
@@ -41,28 +41,28 @@ This slows down the `GpsSatelliteBeacon`'s finders by a random delay between 0 a
 You can feel your rates rising already.  I know it.
 
 
-== Strategy
+## Strategy
 
 Clients pay you to solve their technical problems.  They want to feel like they're getting their money's worth.  Especially after you start submitting enterprisey invoices.
 
 So make their wishes come true: it's only fair.  Ethical, even.  Crank the delay up as the deadline approaches, make them sweat, display fortitude and perseverance, etc.  And when they can't take it (the app's sluggishness, your bills, whatever) any more, whip out the `acts_as_enterprisey` from your models and book the flights to Vegas.
 
 
-== Installation
+## Installation
 
 Install in the usual Rails way:
 
     script/plugin install git://github.com/airblade/acts_as_enterprisey.git
 
 
-== Author
+## Author
 
 Sometimes plausible deniability is best.
 
 But, for the record, you can blame [Andrew Stewart](mailto:boss@airbladesoftware.com) at [AirBlade Software](http://airbladesoftware.com).
 
 
-== See Also
+## See Also
 
 Acts as ASP.NET:
 
@@ -71,7 +71,7 @@ http://www.railsjedi.com/posts/15-Acts-as-ASP-NET-a-Ruby-on-Rails-Plugin-
 A much more impressive effort than this slapdash thing.
 
 
-== Licence
+## Licence
 
 `acts_as_enterprisey` is available under the MIT licence.  See MIT-LICENCE for the details.
 
