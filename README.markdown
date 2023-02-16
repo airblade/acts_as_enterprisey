@@ -66,7 +66,7 @@ But, for the record, you can blame [Andrew Stewart](mailto:boss@airbladesoftware
 
 Acts as ASP.NET:
 
-http://www.railsjedi.com/posts/15-Acts-as-ASP-NET-a-Ruby-on-Rails-Plugin-
+https://web.archive.org/web/20080416051943/http://www.railsjedi.com/posts/15-Acts-as-ASP-NET-a-Ruby-on-Rails-Plugin-
 
 A much more impressive effort than this slapdash thing.
 
